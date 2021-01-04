@@ -1,9 +1,9 @@
-### Hi👋 I'm Ketav Chotaliya (KC)!, A passionate self-taught Full Stack Web Developer from India.
+### Hi👋 I'm Ketav (KC)!, A passionate self-taught Full Stack Developer from India.
 
 
 ### About Me
 
-Experienced Developer with expertise in Node.JS, Microserice Architecture, Socket.IO, System Design and Proficiency in PHP Programming.
+Experienced Software Engineer with working experience in the Information Technology and Service Industry. Expertise in Node.JS, Microserice Architecture, Socket.IO, System Design and Proficiency in PHP Programming.
 
 ### Roles and Responsibilities
 * Design of the software architecture
